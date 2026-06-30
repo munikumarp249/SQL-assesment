@@ -65,10 +65,10 @@ CREATE TABLE Members (
 
 INSERT INTO Members (member_name, join_date)
 VALUES
-('Rahul','2024-01-10'),
-('Anjali','2024-05-15'),
-('Kiran','2023-11-20'),
-('Sneha','2024-09-05');
+('muni','2024-01-10'),
+('kumar','2024-05-15'),
+('chotu','2023-11-20'),
+('Shaik','2024-09-05');
 
 SELECT *
 FROM Members
